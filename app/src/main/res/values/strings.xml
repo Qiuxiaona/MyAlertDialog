@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My AlertDialog</string>
+    <string name="title">欢迎</string>
+</resources>
